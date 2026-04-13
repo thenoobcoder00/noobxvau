@@ -45,11 +45,11 @@ pip install requests beautifulsoup4 urllib3
 
 Clone the repository:
 
-git clone https://github.com/your-username/advanced-scanner.git  
+git clone https://github.com/thenoobcoder00/noobxvau.git  
 
 Move into the directory:
 
-cd advanced-scanner  
+cd noobxvau  
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
